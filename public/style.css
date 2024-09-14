@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #f4f4f4;
+}
+
+canvas {
+    display: block;
+}
+
+#gameCanvas {
+    background-color: #87ceeb;
+}
